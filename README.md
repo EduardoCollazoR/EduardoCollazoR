@@ -1,4 +1,4 @@
-# System.out.println("Bienvenido, Yo soy Eduardo Collazo Rivera"):wave:
+# Bienvenido, Yo soy Eduardo Collazo Rivera" :wave:
 [![bg][banner]][website]
 
 <!--
