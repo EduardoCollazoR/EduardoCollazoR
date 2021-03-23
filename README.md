@@ -1,4 +1,5 @@
-### System.out.println("Bienvenido, Yo soy Eduardo Collazo Rivera"):wave:
+# System.out.println("Bienvenido, Yo soy Eduardo Collazo Rivera"):wave:
+[![bg][banner]][website]
 
 <!--
 **EduardoCollazoR/EduardoCollazoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
