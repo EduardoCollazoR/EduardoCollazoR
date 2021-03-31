@@ -1,5 +1,5 @@
 # Bienvenido, Yo soy Eduardo Collazo Rivera :wave:
-<!--[![bg][banner]][website]-->
+[![bg][banner]][website]
 
 <!--
 **EduardoCollazoR/EduardoCollazoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[banner]: https://github.com/EduardoCollazoR/EduardoCollazoR/blob/master/banner.png
-[website]: https://eduardocr-portafolio.web.app/-->
+[banner]: https://github.com/EduardoCollazoR/EduardoCollazoR/blob/master/heatmap_uyye.png
+[website]: https://eduardocr-portafolio.web.app/
