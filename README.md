@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![EduardoCollazoR github stats](https://github-readme-stats.vercel.app/api?username=EduardoCollazoR&show_icons=true&theme=merko)](https://github.com/EduardoCollazoR/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCollazoR&layout=compact&theme=merko)](https://github.com/EduardoCollazoR/github-readme-stats)
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCollazoR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="EduardoCollazoR Github Stats">
+</p>
 
  
 <Br>
