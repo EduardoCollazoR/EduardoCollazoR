@@ -18,14 +18,7 @@ Here are some ideas to get you started:
 [banner]: https://github.com/EduardoCollazoR/EduardoCollazoR/blob/master/heatmap_uyye.png
 [website]: https://eduardocr-portafolio.web.app/
 
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCollazoR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="EduardoCollazoR Github Stats">
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=EduardoCollazoR&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCollazoR&theme=react&layout=compact" />
 </p>
-
- 
-<Br>
-<hr>
-<Br>
