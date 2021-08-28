@@ -17,3 +17,15 @@ Here are some ideas to get you started:
 -->
 [banner]: https://github.com/EduardoCollazoR/EduardoCollazoR/blob/master/heatmap_uyye.png
 [website]: https://eduardocr-portafolio.web.app/
+
+<h1>GitHub Stats! 📊</h1>
+<Br>
+  
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCollazoR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="EduardoCollazoR Github Stats">
+</p>
+
+ 
+<Br>
+<hr>
+<Br>
