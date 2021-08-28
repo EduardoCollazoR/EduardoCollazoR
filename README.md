@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>GitHub Stats! 📊</h1>
+<Br>
+  
+[![EduardoCollazoR github stats](https://github-readme-stats.vercel.app/api?username=EduardoCollazoR&show_icons=true&theme=merko)](https://github.com/EduardoCollazoR/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCollazoR&layout=compact&theme=merko)](https://github.com/EduardoCollazoR/github-readme-stats)
+
+ 
+<Br>
+<hr>
+<Br>
 [banner]: https://github.com/EduardoCollazoR/EduardoCollazoR/blob/master/heatmap_uyye.png
 [website]: https://eduardocr-portafolio.web.app/
