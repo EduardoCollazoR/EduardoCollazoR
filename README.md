@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 
 ### Frameworks
 <p align="left"> 
-&emsp;
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
    </a>
@@ -96,7 +95,6 @@ Here are some ideas to get you started:
  ### Software & Tools
  
 <p>
- &emsp;
 <a href="#">
      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
  </a>
