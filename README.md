@@ -96,38 +96,34 @@ Here are some ideas to get you started:
  ### Software & Tools
  
 <p>
-  &emsp;
+ &emsp;
 <a href="#">
      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
  </a>
-  &emsp;
+&emsp;
 <a href="#">
      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  </a>
- &emsp;
+&emsp;
     
  <a href="#">
      <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
  </a>
- 
-    &emsp;
+&emsp;
  <a href="#">
       <img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  </a>
-    &emsp; 
+ &emsp; 
 
 </p>
 
 <p>
-  &emsp;
+ &emsp;
 
-    <a href="#">
+<a href="#">
      <img alt="Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
- </a>
-  &emsp;
-  
-   
-    
+</a>
+ &emsp;    
 </p>
 
 
