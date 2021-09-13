@@ -97,22 +97,21 @@ Here are some ideas to get you started:
  
 <p>
   &emsp;
-
-    <a href="#">
+<a href="#">
      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
  </a>
   &emsp;
-    <a href="#">
+<a href="#">
      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  </a>
  &emsp;
     
-    <a href="#">
+ <a href="#">
      <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
  </a>
  
     &emsp;
-     <a href="#">
+ <a href="#">
       <img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  </a>
     &emsp; 
