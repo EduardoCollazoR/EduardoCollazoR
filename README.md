@@ -1,4 +1,4 @@
-# Bienvenido, Yo soy Eduardo Collazo Rivera :wave:
+# Welcome :wave:
 [![bg][banner]][website]
 
 <!--
@@ -117,14 +117,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<p>
- &emsp;
 
-<a href="#">
-     <img alt="Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
-</a>
- &emsp;    
-</p>
 
 
 <p align= "center">
@@ -138,3 +131,12 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardocollazo96@gmail.com)
   
 </div>
+
+<p>
+ &emsp;
+
+<a href="#">
+     <img alt="Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
+</a>
+ &emsp;    
+</p>
